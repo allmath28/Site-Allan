@@ -72,6 +72,18 @@ nav a:hover {
 
 }
 
+.produtos {
+	margin-bottom: 35px;
+
+}
+
+.produtos img {
+	width: 250px;
+	height: auto;
+
+
+}
+
 .produtos li {
 	display: inline-block;
 	text-align: center;
@@ -86,7 +98,7 @@ nav a:hover {
 }
 
 .produtos li:hover {
-	border-color: #C78C19;
+	border-color: #7F19C7;
 
 }
 
@@ -103,6 +115,7 @@ nav a:hover {
 .produtos h2 {
 	font-size: 30px;
 	font-weight: bold;
+	margin: 25px;
 
 }
 
@@ -177,7 +190,7 @@ form label, form legend {
 .enviar {
 	width: 40%;
 	padding: 15px 0;
-	background: orange;
+	background: #1A16BD;
 	color: white;
 	font-weight: bold;
 	font-size: 18px;
@@ -189,7 +202,7 @@ form label, form legend {
 }
 
 .enviar:hover {
-	background: darkorange;
+	background: #9211A9;
 	transform: scale(1.2);
 
 }
