@@ -98,6 +98,7 @@ nav a:hover {
 }
 
 .produtos li:hover {
+	background: #9F96E5;
 	border-color: #7F19C7;
 
 }
