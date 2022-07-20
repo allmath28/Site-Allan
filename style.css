@@ -4,7 +4,7 @@ body {
 }
 
 header {
-	background: url("banner.jpg");
+	background: url("./assets/banner.jpg");
 	padding: 20px 0;
 	width: 100%;
 
@@ -120,7 +120,7 @@ nav a:hover {
 
 footer {
 	text-align: center;
-	background: url("bg.jpg");
+	background: url("./assets/bg.jpg");
 	padding: 40px 0;
 
 }
