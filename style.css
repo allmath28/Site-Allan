@@ -359,15 +359,24 @@ td, th{
 	}
 
 	.produtos li {
-		width: 40%;
+		text-align: center;
+		width: 70%;
 
 	}
 	.produtos li:active {
+		text-align: center;
 		transform: scale(1.0);
 	}
 
 	.produtos img {
-		width: 40%;
+		width: 100%;
+
+	}
+
+	.produtos h2 {
+		text-align: center;
+		font-size: 20px;
+		width: 100%;
 
 	}
 
